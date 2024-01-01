@@ -1,2 +1,1 @@
-## A Filmography database handling in both JSON and SQL.
-#### Both JSON and SQL are handled.
+## A Filmography database handling in both JSON and SQL
